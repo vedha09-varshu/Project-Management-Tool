@@ -4,7 +4,7 @@
 
 *NAME*: JANAPAREDDI VEDHA VARSHINI
 
-*Designation *: MERN Stack Developer Intern
+*Designation*: MERN Stack Developer Intern
 
 *DURATION*: 4 WEEKS
 
