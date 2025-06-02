@@ -14,3 +14,5 @@ This Project Handler is a React-based project management tool that allows users 
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/ca89281c-fc42-4968-85f1-997a51b2cce0)
+![Image](https://github.com/user-attachments/assets/4936d443-ecec-404f-aef7-052fb222f877)
